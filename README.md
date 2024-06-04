@@ -1,4 +1,4 @@
-# Etapa final - crud_django
+# Etapa final - Crud_Django
 
 ### Aluna: Júlia Kewry
 
